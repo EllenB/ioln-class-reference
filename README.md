@@ -4,8 +4,7 @@ This work for the Land Use Land Cover (LULC) class reference for the India Open 
 
 The aim is threefold:
 
-1. Come up with a definition for the different LULC classes that are relevant for the Indian context, across the 10 biogeographic regions defined as per the Rodgers and Panwar (1988) classification.
-[shape file biogeographic regions](https://github.com/EllenB/ioln-class-reference/releases/download/data/lyr_76_india_biogeographic.zip)
+1. Come up with a definition for the different LULC classes that are relevant for the Indian context, across the 10 biogeographic regions defined as per the Rodgers and Panwar (1988) classification. [Download shape file biogeographic regions](https://github.com/EllenB/ioln-class-reference/releases/download/dataset/lyr_76_india_biogeographic.zip) 
 
 
 3. How to identify these classes using True Color Composities (TCC), False Color Composites (FCC) and other visual interpretation keys.
