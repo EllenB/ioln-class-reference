@@ -18,7 +18,7 @@ The aim is threefold:
 
 
 <p align="center">
-  <img src="images/biogeographic_high_level.PNG" alt="biogeographic zones">
+  <img src="images/biogeographic_high_level.png" alt="biogeographic zones">
 </p>
 <p align="center"><em>Figure 2. Classes for the India Open Landcover Mapping.</em></p>
 
