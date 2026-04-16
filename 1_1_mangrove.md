@@ -31,15 +31,10 @@ Mangroves comprise specialised salt-tolerant tree and shrub communities occurrin
 
 | Satellite | Landsat (RGB)-4/3/2 | Landsat (NIR/R/G) - 5/4/3 |
 |-----------|---------------------|----------------------------|
-| <img src="mangrove_106_coasts_east_coast_basemap.png" /> | 
-<img src="images/mangrove_106_coasts_east_coast_rgb.png" width="400px" /> | 
-<img src="images/mangrove_106_coasts_east_coast_fcc543.png" width="400px" /> |
-| Landsat (SWIR-NIR-R) - 6/5/4 | Landsat (SWIR-NIR-R) - Dry | Landsat (NIR/SWIR/R) - 5/6/4 |
-| <img src="images/mangrove_106_coasts_east_coast_fcc654.png" width="400px" /> | 
-<img src="images/mangrove_106_coasts_east_coast_fcc654Dry.png" width="400px" /> | 
-<img src="images/mangrove_106_coasts_east_coast_fcc564.png" width="400px" /> |
+| <img src="images/mangrove_106_coasts_east_coast_basemap.png" width="400px" /> | <img src="images/mangrove_106_coasts_east_coast_rgb.png" width="350px" /> | <img src="/mangrove_106_coasts_east_coast_fcc543.png" width="350px" /> |
+| Landsat (NIR-SWIR-R) - 5/6/4 | Landsat (NIR-SWIR-R) - Dry | Landsat (NIR/SWIR/R) - 5/6/4 |
+| <img src="images/image1.png" width="400px" /> | <img src="images/image2.png" width="400px" /> | <img src="images/image3.png" width="400px" /> |
 | Google Earth Pro (optional) |  |  |
-|  |  |  
 
 ### Islands - Sample xxx
 
