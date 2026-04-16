@@ -33,8 +33,7 @@ Mangroves comprise specialised salt-tolerant tree and shrub communities occurrin
 *Specify lat-lon of sample*
 
 
-| Satellite | Landsat (RGB ) | Landsat (SWIR1/NIR/RED) |
-|           | Bands 4-3-2    | Bands 6-5-4             |
+| Satellite | Landsat (RGB)-4/3/2| Landsat (SWIR1/NIR/RED) - 6/5/4 |
 |-----------|--------------- |-------------------------|
 | <img src="images/western_ghats_evergreen_satellite.png" width="400px" /> | <img src="images/western_ghats_evergreen_landsat_rgb.png" width="400px" /> | <img src="images/western_ghats_evergreen_landsat_fcc.png" width="400px" /> |
 
