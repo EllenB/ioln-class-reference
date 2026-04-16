@@ -39,7 +39,8 @@ Mangroves comprise specialised salt-tolerant tree and shrub communities occurrin
 <img src="images/mangrove_106_coasts_east_coast_fcc654Dry.png" width="400px" /> | 
 <img src="images/mangrove_106_coasts_east_coast_fcc564.png" width="400px" /> |
 | Google Earth Pro (optional) |  |  |
-|  |  |  
+|  |  | 
+
 
 ### Islands - Sample xxx
 
