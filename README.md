@@ -36,6 +36,12 @@ The aim is threefold:
 
 Rodgers, W. A., and H. S. Panwar. "Planning a wildlife protected area network in India." (1988).
 
+## Contributors
+
+This work is the result of members being part of the Working Group **Classification Guidance** of the IOLN: 
+
+TO ADD
+
 
 
 
