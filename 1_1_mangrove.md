@@ -29,25 +29,16 @@ Mangroves comprise specialised salt-tolerant tree and shrub communities occurrin
 
 ### COASTS - East Coast - Sample 106 
 
-
 | Satellite | Landsat (RGB)-4/3/2 | Landsat (NIR/R/G) - 5/4/3 |
 |-----------|---------------------|----------------------------|
-| <img src="images/western_ghats_evergreen_satellite.png" width="400px" /> | <img src="images/western_ghats_evergreen_landsat_rgb.png" width="400px" /> | <img src="images/western_ghats_evergreen_landsat_fcc.png" width="400px" /> |
-| Landsat (NIR-SWIR-R) - 5/6/4 | Landsat (NIR-SWIR-R) - Dry | Landsat (NIR/SWIR/R) - 5/6/4 |
+| <img src="images/mangrove_106_coasts_east_coast_basemap.png" /> | <img src="images/western_ghats_evergreen_landsat_rgb.png" width="400px" /> | <img src="images/western_ghats_evergreen_landsat_fcc.png" width="400px" /> |
+| Landsat (SWIR-NIR-R) - 6/5/4 | Landsat (SWIR-NIR-R) - Dry | Landsat (NIR/SWIR/R) - 5/6/4 |
 | <img src="images/image1.png" width="400px" /> | <img src="images/image2.png" width="400px" /> | <img src="images/image3.png" width="400px" /> |
 | Google Earth Pro (optional) |  |  |
+|  |  |  
 
-*Add Link to Google Maps*
-
-### Himalayas
+### Islands - Sample xxx
 
 *Add notes about region here.*
 
 
-## Sample Collection Tips
-
-Use reference maps such as:
-
-Global Mangrove Forests Distribution, v1 (2000) - [GEE script](https://code.earthengine.google.co.in/4c2e5fa9a65c5182d4ec02a1971f99a3)
-
-*To add other reference maps*
