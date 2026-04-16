@@ -27,15 +27,19 @@ Mangroves comprise specialised salt-tolerant tree and shrub communities occurrin
 
  ## Examples
 
-### COASTS - East Coast
+### COASTS - East Coast - Sample 106 
 
 
-*Specify lat-lon of sample*
-
-
-| Satellite | Landsat (RGB)-4/3/2| Landsat (SWIR1/NIR/RED) - 6/5/4 |
+| Satellite | Landsat (RGB)-4/3/2| Landsat (NIR/R/G) - 5/4/3 |
 |-----------|--------------- |-------------------------|
-| <img src="images/western_ghats_evergreen_satellite.png" width="400px" /> | <img src="images/western_ghats_evergreen_landsat_rgb.png" width="400px" /> | <img src="images/western_ghats_evergreen_landsat_fcc.png" width="400px" /> |
+| <img src="images/western_ghats_evergreen_satellite.png" width="400px" /> | <img src="images/western_ghats_evergreen_landsat_rgb.png" width="400px" /> | <img 
+src="images/western_ghats_evergreen_landsat_fcc.png" width="400px" /> |
+
+| Landsat (NIR-SWIR-R) - (5/6/4) | Landsat (NIR-SWIR-R)- Dry| Landsat (NIR/SWIR/R) - 5/6/4 |
+|-----------|--------------- |-------------------------|
+
+|  Google Earth Pro (optional) | | |
+|-----------|--------------- |-------------------------|
 
 *Add Link to Google Maps*
 
