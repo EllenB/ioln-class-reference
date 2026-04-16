@@ -7,24 +7,35 @@
 
 ## Definition
 
-Mangroves are ecosystems that exist between the land and the sea and are found in tropical and subtropical intertidal zones and have a lot of salt-tolerant plants. These ecosystems exhibit high rainfall (2 100 to 6000 mm per year). Source: [India State of Forest Report, 2023, Chapter 3](https://fsi.nic.in/uploads/isfr2023/isfr_book_eng-vol-1_2023.pdf).
+**Tidally influenced coastal forest ecosystems dominated by halophytic woody species adapted to saline conditions and regular inundation.**
 
-## Description
+Mangroves comprise specialised salt-tolerant tree and shrub communities occurring in tropical and subtropical intertidal zones, characterised by pneumatophores, prop roots, and vivipary. In India, they range from the extensive Sundarbans (dominated by Heritiera and Excoecaria) in the east to smaller patches along the western coast (dominated by Avicennia and Rhizophora), with structural complexity varying from tall closed canopies to stunted shrubby formations based on salinity and tidal amplitude. These ecosystems show minimal seasonal variation in canopy cover but may exhibit phenological changes in flowering and fruiting.
 
-*Add notes here*
+
+## True and false colour composites characteristics
+
+- In RGB  (4-3-2) composites, mangroves appear dark green to brownish-green.
+- In NIR-R-G (5-4-3), they show bright red to crimson due to high chlorophyll content and moisture.
+- In SWIR-NIR-R (6-5-4), they appear bright green as strong reflectance is seen in the NIR channel.  
+- Seasonal variations are subtle with slightly darker tones during monsoon months due to increased moisture and sediment load in surrounding waters  whilst tidal variations can affect spectral signatures based on water levels during image acquisition.
+
+## Texture, shape and pattern
+
+- Texture: Medium to coarse
+- Shape: Varrying
+- Pattern: Irregular
 
  ## Examples
 
-### Western Ghats
+### COASTS - East Coast
 
-*Add notes about region here.*
 
 *Specify lat-lon of sample*
 
 
-| Satellite | Landsat (RGB) | Landsat (SWIR1/NIR/RED) |
-|-----------|---------------|-------------------------|
-*To change to images here - Take Sundarban images instead*
+| Satellite | Landsat (RGB ) | Landsat (SWIR1/NIR/RED) |
+|           | Bands 4-3-2    | Bands 6-5-4             |
+|-----------|--------------- |-------------------------|
 | <img src="images/western_ghats_evergreen_satellite.png" width="400px" /> | <img src="images/western_ghats_evergreen_landsat_rgb.png" width="400px" /> | <img src="images/western_ghats_evergreen_landsat_fcc.png" width="400px" /> |
 
 *Add Link to Google Maps*
