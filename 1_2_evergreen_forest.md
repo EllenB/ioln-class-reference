@@ -14,10 +14,23 @@ They exhibit a multi-layered canopy structure with emergents reaching 45–60 m 
 
 Whilst maintaining year-round green cover, these forests show subtle phenological patterns in leaf flush, flowering, and fruiting cycles.
 
+## True and false colour composites characteristics
 
- ## Examples
+- In RGB, evergreen forests appear deep green to dark green throughout the year
+- in NIR-R-G, they show consistent bright red to deep red signatures indicating high photosynthetic activity.
+- In SWIR-NIR-R, they display bright green tones and these tones are similar between the Dry and the overall season; there is hardly any change in tone (compared to decidious forest). 
+- Seasonal variations are minimal.
+- In comparison to deciduous forest, the NDVI behaves more stably across the seasons.
 
-### Western Ghats - Sample 76
+## Texture, shape and pattern
+
+- Texture: Course/rough
+- Shape: Varying
+- Pattern: Irregular
+
+## Examples
+
+### Western Ghats - Mountains - Sample 76
 
 Evergreen species constitute at least 95% of the stand.  
 Dense evergreen and semi-evergreen forests contrast sharply with the deciduous forests during dry period.
@@ -25,20 +38,28 @@ Dense evergreen and semi-evergreen forests contrast sharply with the deciduous f
 
 | Satellite | Landsat (RGB)-4/3/2 | Landsat (NIR/R/G) - 5/4/3 |
 |-----------|---------------------|----------------------------|
-| <img src="images/mangrove_106_coasts_east_coast_basemap.png" width="400px" /> | <img src="images/mangrove_106_coasts_east_coast_rgb.png" width="400px" /> | <img src="images/mangrove_106_coasts_east_coast_fcc543.png" width="400px" /> |
+| <img src="images/evergreen_76_western_ghats_mountains_basemap.png" width="400px" /> | <img src="images/evergreen_76_western_ghats_mountains_rgb.png" width="400px" /> | <img src="images/evergreen_76_western_ghats_mountains_fcc543.png" width="400px" /> |
 | Landsat (SWIR-NIR_R) - 6/5/4 | Landsat (SWIR-NIR_R) - Dry | Landsat (NIR/SWIR/R) - 5/6/4 |
-| <img src="images/mangrove_106_coasts_east_coast_fcc654.png" width="400px" /> | <img src="images/mangrove_106_coasts_east_coast_fcc654Dry.png" width="400px" /> | <img src="images/mangrove_106_coasts_east_coast_fcc564.png" width="400px" /> |
+| <img src="images/evergreen_76_western_ghats_mountains_fcc654.png" width="400px" /> | <img src="images/evergreen_76_western_ghats_mountains_fcc654Dry.png" width="400px" /> | <img src="images/evergreen_76_western_ghats_mountains_fcc564.png" width="400px" /> |
 | Google Earth Pro (optional) |  |  
 
-### Himalayas
 
-*Add notes about region here.*
+### Himalayas - Himalaya Central - Sample 23
+
+#### True and false colour composites characteristics
+
+- Deep-darker red color and high contrast-bright for the NIR-R-G bands 
+- Shades of deep green, dark green, or olive green for the true color composites
+
+#### Texture, shape and pattern
+
+- Rough-clumpy-rugged texture 
 
 | Satellite | Landsat (RGB)-4/3/2 | Landsat (NIR/R/G) - 5/4/3 |
 |-----------|---------------------|----------------------------|
-| <img src="images/mangrove_106_coasts_east_coast_basemap.png" width="400px" /> | <img src="images/mangrove_106_coasts_east_coast_rgb.png" width="400px" /> | <img src="images/mangrove_106_coasts_east_coast_fcc543.png" width="400px" /> |
+| <img src="images/evergreen_23_himalaya_central_basemap.png" width="400px" /> | <img src="images/evergreen_23_himalaya_central_rgb.png" width="400px" /> | <img src="images/evergreen_23_himalaya_central_fcc543.png" width="400px" /> |
 | Landsat (SWIR-NIR_R) - 6/5/4 | Landsat (SWIR-NIR_R) - Dry | Landsat (NIR/SWIR/R) - 5/6/4 |
-| <img src="images/mangrove_106_coasts_east_coast_fcc654.png" width="400px" /> | <img src="images/mangrove_106_coasts_east_coast_fcc654Dry.png" width="400px" /> | <img src="images/mangrove_106_coasts_east_coast_fcc564.png" width="400px" /> |
+| <img src="images/evergreen_23_himalaya_central_fcc654.png" width="400px" /> | <img src="images/evergreen_23_himalaya_central_fcc654Dry.png" width="400px" /> | <img src="images/evergreen_23_himalaya_central_fcc564.png" width="400px" /> |
 | Google Earth Pro (optional) |  |  
 
 
