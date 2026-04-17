@@ -13,9 +13,7 @@ These forests encompass tropical wet evergreens of the Western Ghats and North-E
 They exhibit a multi-layered canopy structure with emergents reaching 45–60 m in tropical zones, dense understory vegetation including bamboo patches, and high epiphytic loads in humid regions.
 
 Whilst maintaining year-round green cover, these forests show subtle phenological patterns in leaf flush, flowering, and fruiting cycles.
-## Description
 
- Evergreen forests are landcover types characterized by dense tree canopy cover where the majority of trees retain their leaves throughout the year. In landcover classification, evergreen forests are identified by persistent green foliage, minimal seasonal leaf loss, and a closed canopy structure. They are distinguished from deciduous forests by their year-round photosynthetic activity and stable canopy appearance.
 
  ## Examples
 
@@ -35,4 +33,13 @@ Dense evergreen and semi-evergreen forests contrast sharply with the deciduous f
 ### Himalayas
 
 *Add notes about region here.*
+
+| Satellite | Landsat (RGB)-4/3/2 | Landsat (NIR/R/G) - 5/4/3 |
+|-----------|---------------------|----------------------------|
+| <img src="images/mangrove_106_coasts_east_coast_basemap.png" width="400px" /> | <img src="images/mangrove_106_coasts_east_coast_rgb.png" width="400px" /> | <img src="images/mangrove_106_coasts_east_coast_fcc543.png" width="400px" /> |
+| Landsat (SWIR-NIR_R) - 6/5/4 | Landsat (SWIR-NIR_R) - Dry | Landsat (NIR/SWIR/R) - 5/6/4 |
+| <img src="images/mangrove_106_coasts_east_coast_fcc654.png" width="400px" /> | <img src="images/mangrove_106_coasts_east_coast_fcc654Dry.png" width="400px" /> | <img src="images/mangrove_106_coasts_east_coast_fcc564.png" width="400px" /> |
+| Google Earth Pro (optional) |  |  
+
+
 
