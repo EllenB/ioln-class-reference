@@ -42,5 +42,5 @@ Mangroves comprise specialised salt-tolerant tree and shrub communities occurrin
 |-----------|---------------------|----------------------------|
 | <img src="images/mangrove_53_islands_andamans_basemap.png" width="400px" /> | <img src="images/mangrove_53_islands_andamans_rgb.png" width="400px" /> | <img src="images/mangrove_53_islands_andamans_fcc543.png" width="400px" /> |
 | Landsat (SWIR-NIR_R) - 6/5/4 | Landsat (SWIR-NIR_R) - Dry | Landsat (NIR/SWIR/R) - 5/6/4 |
-| <img src="images/mangrove_106_coasts_east_coast_fcc654.png" width="400px" /> | <img src="images/mangrove_106_coasts_east_coast_fcc654Dry.png" width="400px" /> | <img src="images/mangrove_53_islands_andamans_fcc564.png" width="400px" /> |
+| <img src="images/mangrove_53_islands_andamans_fcc654.png" width="400px" /> | <img src="images/mangrove_53_islands_andamans_fcc654Dry.png" width="400px" /> | <img src="images/mangrove_53_islands_andamans_fcc564.png" width="400px" /> |
 | Google Earth Pro (optional) |  |  |
