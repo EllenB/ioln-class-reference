@@ -38,7 +38,16 @@ Wetlands comprise permanent marshes with emergent vegetation (Typha, Cyperus), s
 | Google Earth Pro (optional) |  |  
 
 
+### Coasts- East Coast - Sample 79
 
+
+
+| Satellite | Landsat (RGB)-4/3/2 | Landsat (NIR/R/G) - 5/4/3 |
+|-----------|---------------------|----------------------------|
+| <img src="images/swamp_79_coasts_east_coast_basemap.png" width="400px" /> | <img src="images/swamp_79_coasts_east_coast_rgb.png" width="400px" /> | <img src="images/swamp_79_coasts_east_coast_fcc543.png" width="400px" /> |
+| Landsat (SWIR-NIR_R) - 6/5/4 | Landsat (SWIR-NIR_R) - Dry | Landsat (NIR/SWIR/R) - 5/6/4 |
+| <img src="images/swamp_79_coasts_east_coast_fcc654.png" width="400px" /> | <img src="images/swamp_79_coasts_east_coast_fcc654Dry.png" width="400px" /> | <img src="images/swamp_79_coasts_east_coast_fcc564.png" width="400px" /> |
+| Google Earth Pro (optional) |  |  
 
 
 
