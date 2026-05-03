@@ -2,7 +2,7 @@
 
 | Legend | Level | Class Number | Color Code |
 | ------ | ----- | -------------| ---------- |
-| Deciduous Forest | 2.2 | 11 | #519799 |
+| Wetlands and marshlands | 2.2 | 11 | #519799 |
 
 ## Definition
 
